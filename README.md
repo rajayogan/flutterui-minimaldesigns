@@ -1,16 +1,11 @@
-# exploreui
+# Minimal Designs
 
-A new Flutter project.
+A simple clean design for your screens made using flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5759622-Different-choices/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/OLmE2Pu-coU
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190101-032840](https://user-images.githubusercontent.com/8137504/50574013-15825880-0e05-11e9-95c5-168d95a0b797.png)
